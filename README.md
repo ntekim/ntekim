@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Application Software, System Software and Embedded Systems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ntekim](https://github.com/ntekim)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ntekim)
 
 - 💬 Ask me about **JavaScript, Nodejs, Typescript, React, Golang and Python**
 
