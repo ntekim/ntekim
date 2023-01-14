@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Microservice App with Golang and Docker**
 
-- 🌱 I’m currently learning **Fiber, Gin, and Docker.**
+- 🌱 I’m currently learning **Fiber, and Docker.**
 
 - 👯 I’m looking to collaborate on **Application Software, System Software and Embedded Systems**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ntekim)
 
-- 💬 Ask me about **JavaScript, Nodejs, Typescript, React, Golang and Python**
+- 💬 Ask me about **MEARN, Typescript, Golang, Python, and Microservice Architecture**
 
 - 📫 How to reach me **jothamntekim@gmail.com**
 
