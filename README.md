@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Microservice App with Golang and Docker**
 
-- 🌱 I’m currently learning **Fiber, and Docker.**
+- 🌱 I’m currently learning **Docker.**
 
 - 👯 I’m looking to collaborate on **Application Software, System Software and Embedded Systems**
 
