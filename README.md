@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ntekim)
 
-- 💬 Ask me about **MEARN, Typescript, Golang, Python, and Microservice Architecture**
+- 💬 Ask me about **MERN, Golang, and Microservice Architecture**
 
 - 📫 How to reach me **jothamntekim@gmail.com**
 
