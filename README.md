@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/jothamntekim1" target="blank"><img src="https://img.shields.io/twitter/follow/jothamntekim1?logo=twitter&style=for-the-badge" alt="jothamntekim1" /></a> </p>
 
-- 🔭 I’m currently working on **Microservice App with Golang and Docker**
+- 🔭 I’m currently working on **SaaS Apps**
 
-- 🌱 I’m currently learning **Docker.**
+- 🌱 I’m currently learning **Kubernetes and ML**
 
-- 👯 I’m looking to collaborate on **Application Software, System Software and Embedded Systems**
+- 👯 I’m looking to collaborate on **Distributed Systems, ML and Automations, and Embedded Systems**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ntekim)
 
-- 💬 Ask me about **MERN, Golang, and Microservice Architecture**
+- 💬 Ask me about **Golang, Nextjs, System Design, Distributed Sytems - Microservice Architecture, Machine Learning**
 
 - 📫 How to reach me **jothamntekim@gmail.com**
 
